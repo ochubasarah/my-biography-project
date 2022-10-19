@@ -1,0 +1,3 @@
+Name ochuba sarah
+occupation:student
+stataus:single
